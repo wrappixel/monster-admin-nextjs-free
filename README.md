@@ -1,2 +1,2 @@
-# monster-admin-nextjs-free
-Get Free Next js Admin Template from WrapPixel. Its with Reactstrap (bootstrap5)
+# xtreme-admin-nextjs-free
+Free next js admin template.
