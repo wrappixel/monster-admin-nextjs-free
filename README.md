@@ -15,11 +15,9 @@ Monster is Free NextJs React admin Template. It allows you to create stunning ba
 
 The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want. Even if you're a novice developer, clean code and easy to customize will get you up to speed in no time.
 
-If you're looking for the best React templates across the web, we've curated a list that's sure to meet your needs. Just pick from our wide variety of free responsive react templates that work seamlessly across devices and get started today!
+If you're looking for the best NextJs templates across the web, we've curated a list that's sure to meet your needs. Just pick from our wide variety of free responsive react templates that work seamlessly across devices and get started today!
 </p>
-<p>
-  It allows building high-performing web-applications and other projects in a couple of days giving a seamless experience. You also get a variety of widgets, elements, page templates, icons and much more when you download it. The best part of this free admin theme bootstrap 5 is its full responsiveness and savior when you are low on budget. For all commercial projects, you can opt-in pro version of this template.
- </p>
+
 
 <!-- <h4><a href="https://wrappixel.com/demos/free-admin-templates/xtreme-admin-lite/xtreme-html/ltr/index.html">Free Version Demo Link</a></h4> -->
 
