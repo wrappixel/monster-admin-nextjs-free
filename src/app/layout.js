@@ -8,8 +8,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <Head>
-        <title>Monster Free Next Js Dashboard Template</title>
-        <meta name="description" content="Monster Free Next Js Dashboard Template" />
+        <title>Monster Free NextJs Admin Template by Wrappixel</title>
+        <meta name="description" content="Monster Free NextJs Admin Template by Wrappixel" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body>{children}</body>

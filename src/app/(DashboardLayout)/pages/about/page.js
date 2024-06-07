@@ -109,7 +109,7 @@ const About = () => {
                 <div className="mt-3">
                   <Button
                     color="primary"
-                    href="https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard"
+                    href="https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard/?ref=33"
                     target="_blank"
                   >
                     Buy Now

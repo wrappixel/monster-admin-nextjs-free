@@ -49,10 +49,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Monster Free Next Js Dashboard Template</title>
+        <title>Monster Free NextJs Admin Template by Wrappixel</title>
         <meta
           name="description"
-          content="Monster Free Next Js Dashboard Template"
+          content="Monster Free NextJs Admin Template by Wrappixel"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

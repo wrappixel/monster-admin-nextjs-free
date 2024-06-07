@@ -104,7 +104,7 @@ const Sidebar = ({ showMobilemenu }) => {
             tag="a"
             target="_blank"
             className="mt-3"
-            href="https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard"
+            href="https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard/?ref=33"
           >
             Upgrade To Pro
           </Button>
